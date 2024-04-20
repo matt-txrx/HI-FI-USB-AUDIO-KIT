@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "phoenix 1x2")(type "KiCad")(uri "${KIPRJMOD}/model_lib/1711725/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "I2C_Level_Shift")(type "KiCad")(uri "${KIPRJMOD}/model_lib/ul_PCA9517ADP/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "1Bit_Level_Shift")(type "KiCad")(uri "${KIPRJMOD}/model_lib/74LVC1T45W6_7/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SSM3582_ClassD_Audio_Amp")(type "KiCad")(uri "${KIPRJMOD}/model_lib/SSM3582ACPZ/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "74LVC1T45W6-7")(type "KiCad")(uri "D:/Electrical Engineering Studies/EEE488_SeniorDesignLab/SSM3582_Class_D_Amp/model_lib/74LVC1T45W6-7")(options "")(descr ""))
+)

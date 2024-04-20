@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1bit_level_shift_SOT26")(type "KiCad")(uri "${KIPRJMOD}/model_lib/KiCADv6/2024-02-15_19-56-07.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C_level_shift_TSOP8")(type "KiCad")(uri "${KIPRJMOD}/model_lib/KiCADv6/2024-02-14_01-14-28.kicad_sym")(options "")(descr ""))
+  (lib (name "SSM3582_ClassD_amp")(type "KiCad")(uri "${KIPRJMOD}/model_lib/KiCADv6/KiCADv6/2024-01-30_19-59-15.kicad_sym")(options "")(descr ""))
+)
