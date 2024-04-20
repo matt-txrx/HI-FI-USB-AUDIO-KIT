@@ -1,0 +1,121 @@
+{
+"DesignRules": [
+{
+"Layers": "Outer",
+"PadToPad": 0.2,
+"PadToTrack": 0.2,
+"RegionToRegion": 0.508,
+"TrackToRegion": 0.508,
+"TrackToTrack": 0.2
+}
+],
+"FilesAttributes": [
+{
+"FileFunction": "Copper,L1,Top",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-F_Cu.gbr"
+},
+{
+"FileFunction": "Copper,L2,Bot",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-B_Cu.gbr"
+},
+{
+"FileFunction": "SolderPaste,Top",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-F_Paste.gbr"
+},
+{
+"FileFunction": "SolderPaste,Bot",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-B_Paste.gbr"
+},
+{
+"FileFunction": "Legend,Top",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-F_Silkscreen.gbr"
+},
+{
+"FileFunction": "Legend,Bot",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-B_Silkscreen.gbr"
+},
+{
+"FileFunction": "SolderMask,Top",
+"FilePolarity": "Negative",
+"Path": "DIYAH_Main_r0p0-F_Mask.gbr"
+},
+{
+"FileFunction": "SolderMask,Bot",
+"FilePolarity": "Negative",
+"Path": "DIYAH_Main_r0p0-B_Mask.gbr"
+},
+{
+"FileFunction": "Profile",
+"FilePolarity": "Positive",
+"Path": "DIYAH_Main_r0p0-Edge_Cuts.gbr"
+}
+],
+"GeneralSpecs": {
+"BoardThickness": 1.6,
+"Finish": "None",
+"LayerNumber": 2,
+"ProjectId": {
+"GUID": "44495941-485f-44d6-9169-6e5f72307030",
+"Name": "DIYAH_Main_r0p0",
+"Revision": "rev?"
+},
+"Size": {
+"X": 114.4,
+"Y": 104.24
+}
+},
+"Header": {
+"CreationDate": "2023-11-25T01:26:05-05:00",
+"GenerationSoftware": {
+"Application": "Pcbnew",
+"Vendor": "KiCad",
+"Version": "(6.0.6-0)"
+}
+},
+"MaterialStackup": [
+{
+"Name": "Top Silk Screen",
+"Type": "Legend"
+},
+{
+"Name": "Top Solder Paste",
+"Type": "SolderPaste"
+},
+{
+"Name": "Top Solder Mask",
+"Type": "SolderMask"
+},
+{
+"Name": "F.Cu",
+"Type": "Copper"
+},
+{
+"Material": "FR4",
+"Name": "F.Cu/B.Cu",
+"Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)",
+"Type": "Dielectric"
+},
+{
+"Name": "B.Cu",
+"Type": "Copper"
+},
+{
+"Name": "Bottom Solder Mask",
+"Type": "SolderMask"
+},
+{
+"Name": "Bottom Solder Paste",
+"Type": "SolderPaste"
+},
+{
+"Name": "Bottom Silk Screen",
+"Type": "Legend"
+}
+]
+}

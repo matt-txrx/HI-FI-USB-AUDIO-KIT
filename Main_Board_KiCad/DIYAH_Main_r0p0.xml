@@ -1,0 +1,3138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/eric/Library/CloudStorage/OneDrive-ArizonaStateUniversity/DIYAH_Main_r0p0/DIYAH_Main_r0p0.kicad_sch</source>
+    <date>Wednesday, February 14, 2024 at 11:05:25 AM</date>
+    <tool>Eeschema (6.0.6-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DIYAH_Main_r0p0.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>RPi_Pico</value>
+      <footprint>Custom Components:Rpi_Pico</footprint>
+      <fields>
+        <field name="Mouser">485-5583</field>
+      </fields>
+      <libsource lib="Custom Components" part="RPi_Pico" description="Raspberry Pi Pico Module"/>
+      <property name="Mouser" value="485-5583"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>932ffa1c-0872-47b2-b696-66ca290b5e70</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>684e2108-0ec2-4f6e-b14d-213d0ea59ef3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d40948e-8e49-459e-aa64-e7606b2454ad</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7733c56-a19c-4a23-9281-c616b71832e4</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10pF 50V C0G</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1634</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10C100JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10C100JB8NNNC"/>
+      <property name="LCSC Part #" value="C1634"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1035dee-3aec-4366-a900-82059c8ef315</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10pF 50V C0G</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1634</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Part Number">CL10C100JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Part Number" value="CL10C100JB8NNNC"/>
+      <property name="LCSC Part #" value="C1634"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4eb5757-4313-49a2-9858-a060a15f542e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>978f9c33-62f0-4542-9cf7-9cc4675de08e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>836220e6-823b-4d1e-9a8e-1c255d91f6ec</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec26eeb6-8fc2-47cf-9b1c-d377811592f5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>150pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C170148</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10B151KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10B151KB8NNNC"/>
+      <property name="LCSC Part #" value="C170148"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a02b24b-63d2-4f34-a567-7c806198607f</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9024fc6a-5a25-4c22-9f07-c2eccb52229b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>5.6nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C170143</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10B562KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10B562KB8NNNC"/>
+      <property name="LCSC Part #" value="C170143"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>483a6a90-6b4a-4f43-a8b1-dea20a00d97f</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7404d615-a772-435c-8c6e-9932e64c602b</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3191582b-c33c-41f2-9771-da6789d26bdb</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f0c8a60-f62c-429d-9d08-60abe561ee07</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d064e73d-473e-4de6-abe0-9c3cbdcae3c3</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81b10554-a0e9-455c-9591-7efc58903042</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c017364-5b68-4dc2-ace9-259517a0550d</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4da6324f-3a18-4d72-849b-f03e0e0f2407</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bbad180-289d-4273-a355-a7df9101a582</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>613e33a8-9401-4777-bc3d-d402664b7a93</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e56feec5-328e-42a1-9537-ed4c4fdfe2eb</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b74fe063-d8ac-49b8-952a-b7f3d6ce4c55</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cb9e590-1ed2-4053-8d5c-79dab459a0f1</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bb34572-bc87-4e48-91d0-b4f8c032f09f</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58bb2b47-a232-40be-9cac-af82edc69ef7</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1d0597f-f9de-4db6-8421-6040aa1b05ff</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>10uF 25V X5R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C15850</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A106KAYNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A106KAYNNNE"/>
+      <property name="Mouser" value=""/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C15850"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0067a10a-aa48-41ca-802c-3bb9779530ec</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de4cfc3e-d758-4500-bb48-626bb18076e9</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51fcb68f-4144-4013-bbf2-647d65ef74ee</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f070c64-c2aa-47f3-9815-eca31977fd14</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3adf2a0-4e6f-4344-8215-9b2b3595fbd8</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e1e0cda-66b8-4889-9565-f1e70a4a9b54</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF 50V X7R</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C14663</field>
+        <field name="Manufacturer">Yageo</field>
+        <field name="Part Number">CC0603KRX7R9BB104</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Yageo"/>
+      <property name="Part Number" value="CC0603KRX7R9BB104"/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ca14841-e49d-43e3-9827-1ee953542cdc</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>22uF 6V3 X7R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C45783</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A226MAQNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A226MAQNNNE"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b1d33fa-1088-46a4-b016-fe2c761111a3</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>22uF 6V3 X7R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C45783</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A226MAQNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A226MAQNNNE"/>
+      <property name="LCSC Part #" value="C45783"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04bdfad2-3920-4c4a-9abd-3b68b4b084b8</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>22uF 6V3 X7R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C45783</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A226MAQNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A226MAQNNNE"/>
+      <property name="LCSC Part #" value="C45783"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82443a47-f1f8-45d6-a945-fe3f9fcf1125</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>22uF 6V3 X7R</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C45783</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL21A226MAQNNNE</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL21A226MAQNNNE"/>
+      <property name="LCSC Part #" value="C45783"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f8435f7-37b6-4995-8fbd-f74f42ba915c</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4e5576-e0ce-4601-bb33-b49f76522e38</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9691340-3bf6-4b12-8452-5048fe979954</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c09fbf06-deaa-4332-af11-28b219166f4c</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>33pF 50V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C1663</field>
+        <field name="Manufacturer">Samsung</field>
+        <field name="Part Number">CL10C330JB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Manufacturer" value="Samsung"/>
+      <property name="Part Number" value="CL10C330JB8NNNC"/>
+      <property name="LCSC Part #" value="C1663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85ea2358-ed9b-470e-a247-c925405d4855</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS54</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC Part #">C3014014</field>
+        <field name="Manufacturer">Comchip Technology</field>
+        <field name="Mouser">750-SS54-HF</field>
+        <field name="Part Number">SS54-HF</field>
+      </fields>
+      <libsource lib="KicadCustomComponents" part="Schottky_SS54" description=""/>
+      <property name="Manufacturer" value="Comchip Technology"/>
+      <property name="Part Number" value="SS54-HF"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value="750-SS54-HF"/>
+      <property name="LCSC Part #" value="C3014014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a412af4-64fe-4f7c-b653-2e634581f883</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS56</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <fields>
+        <field name="LCSC Part #">C2897835</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C2897835"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6a9379e-b185-4a7b-9b95-8859b59f617b</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SS56</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <fields>
+        <field name="LCSC Part #">C2897835</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C2897835"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8180a0a-9498-430e-a64f-a06e3a0a947a</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SS54</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="LCSC Part #">C3014014</field>
+        <field name="Manufacturer">Comchip Technology</field>
+        <field name="Mouser">750-SS54-HF</field>
+        <field name="Part Number">SS54-HF</field>
+      </fields>
+      <libsource lib="KicadCustomComponents" part="Schottky_SS54" description=""/>
+      <property name="Manufacturer" value="Comchip Technology"/>
+      <property name="Part Number" value="SS54-HF"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value="750-SS54-HF"/>
+      <property name="LCSC Part #" value="C3014014"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae25cb72-0404-42da-bf45-3f403faa358b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C434442</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C434442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab6c1b00-dc11-4fef-9679-dabf1610eda6</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C434442</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C434442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90d7be39-625a-47cd-9f92-cf6574e9d27d</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C434442</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C434442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>608b766c-396c-4d32-bd43-3ac6b7e60d5d</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C434442</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C434442"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f58fac8-35e5-4c96-99e0-9fc8197e774b</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81dad075-440f-4dfa-9a25-4662879b5cac</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7183345-c409-4105-a4a3-d9d2837804f2</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c918d434-0973-41d0-9839-25fed7ae1750</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19cb6472-790d-4958-bdbc-ec210b959777</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b91f90a-d4a5-4f58-9044-4f606b6cdfcc</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x19</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x19" description="Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4074925c-f651-4e5d-97ba-eeff64ae5daa</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8346c41e-c507-4536-94fa-e05285cfc176</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal</footprint>
+      <fields>
+        <field name="Mouser">640-DCJ200-10-A-K1-K</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Mouser" value="640-DCJ200-10-A-K1-K"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cdf93e4-f3df-4dad-96e5-aa3c5a440807</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8294d0a3-5537-4de2-a67c-6836f9e4b58e</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>USBi</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebd984b2-8e61-4a3e-b346-2390f661b9e4</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH</value>
+      <footprint>Custom Components:Coilcraft_XAL40xx</footprint>
+      <fields>
+        <field name="LCSC Part #">C5144883</field>
+        <field name="Manufacturer">Coilcraft</field>
+        <field name="Mouser">994-XAL4040-103MEC</field>
+        <field name="Part Number">XAL4040-103MEC</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="Manufacturer" value="Coilcraft"/>
+      <property name="Part Number" value="XAL4040-103MEC"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value="994-XAL4040-103MEC"/>
+      <property name="LCSC Part #" value="C5144883"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e31a7e0f-d5db-4794-be30-e5076f7d4454</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>6.8uH</value>
+      <footprint>Inductor_SMD:L_7.3x7.3_H3.5</footprint>
+      <fields>
+        <field name="LCSC Part #">C2638689</field>
+        <field name="Manufacturer">Sumida</field>
+        <field name="Mouser">851-0618CDMCCDS6R8MC</field>
+        <field name="Part Number">0618CDMCCDS-6R8MC</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="Manufacturer" value="Sumida"/>
+      <property name="Part Number" value="0618CDMCCDS-6R8MC"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value="851-0618CDMCCDS6R8MC"/>
+      <property name="LCSC Part #" value="C2638689"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78dd458f-8ead-4874-927b-c86f27f134da</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>ZXTP25040</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="LCSC Part #">C211430</field>
+        <field name="Manufacturer">Diodes Inc</field>
+        <field name="Mouser">621-ZXTP25040DFHTA</field>
+        <field name="Part Number">ZXTP25040DFHTA</field>
+      </fields>
+      <libsource lib="Device" part="Q_PNP_BEC" description="PNP transistor, base/emitter/collector"/>
+      <property name="Manufacturer" value="Diodes Inc"/>
+      <property name="Part Number" value="ZXTP25040DFHTA"/>
+      <property name="Mouser" value="621-ZXTP25040DFHTA"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C211430"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0511d0c-e4ee-4920-86eb-6c6c1ad589a1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>005e6044-e813-4e97-b54a-59e5d299b349</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a9a11ae-07fe-4d9d-b0f6-fe07c1a35c1a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>189218de-9065-4172-b13d-80cbbc422e37</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>42.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23056</field>
+        <field name="Manufacturer">United Royal</field>
+        <field name="Part Number">0603WAF4422T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="United Royal"/>
+      <property name="Part Number" value="0603WAF4422T5E"/>
+      <property name="LCSC Part #" value="C23056"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5120f98c-6aca-4cd6-8362-2ab1cce21342</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1002T5E"/>
+      <property name="LCSC Part #" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>797f78d6-ea68-4d0a-8499-4b33e7b9cd92</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25803</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1003T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1003T5E"/>
+      <property name="LCSC Part #" value="C25803"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78238c1f-5db8-4542-9e17-27aeb968f578</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>17.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22819</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1742T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1742T5E"/>
+      <property name="LCSC Part #" value="C22819"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e37c0da1-a27a-4425-bea9-d60de322e675</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22775</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1000T5E"/>
+      <property name="LCSC Part #" value="C22775"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75bf90be-1963-42bc-92fe-4dd090bb9aca</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1002T5E"/>
+      <property name="LCSC Part #" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f357e047-0d75-470c-89fc-33e0f6a6f295</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22775</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1000T5E"/>
+      <property name="LCSC Part #" value="C22775"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cc55db0-15c5-490c-9f4f-dadcda849bc0</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.3k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23159</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF4301T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF4301T5E"/>
+      <property name="LCSC Part #" value="C23159"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d2204b2-808a-4e00-a765-fbf458a96632</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2525ea95-3f5d-4c9c-b878-a2e383cd71d4</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f333d483-1d43-484a-8087-de91ac52f407</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9512004c-2480-4434-9c2e-d24f70d04236</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54197ec2-636b-45d4-b33c-09c2e9747bd1</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9deede9-962e-4299-a9d5-c285512291a2</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1001T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1001T5E"/>
+      <property name="LCSC Part #" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2c08cca-7905-416d-b820-0113e6cc3267</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>42.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23056</field>
+        <field name="Manufacturer">United Royal</field>
+        <field name="Part Number">0603WAF4422T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="United Royal"/>
+      <property name="Part Number" value="0603WAF4422T5E"/>
+      <property name="LCSC Part #" value="C23056"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d958494-e301-4ba5-83b9-c7492bfa96c1</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fecb48f-9ba8-4ea2-8b33-1c3638814395</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6a249cb-8eae-4e25-9e69-a7ca227d9fae</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb725324-e479-413a-89c0-0f2a66209287</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1002T5E"/>
+      <property name="LCSC Part #" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca4ec06-cb10-492d-ac35-24c98aaf075a</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25803</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1003T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1003T5E"/>
+      <property name="LCSC Part #" value="C25803"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55e73dc6-1533-4784-8618-4e8166a5395e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>29.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22974</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2942T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2942T5E"/>
+      <property name="LCSC Part #" value="C22974"/>
+      <property name="Mouser" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d2ba90d-020a-4b26-b916-da6b067ccbb6</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>213d1cf2-a8a3-4cdc-918c-e078ffbfbbfc</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ea73c1c-78eb-429d-9b10-53051da0ea51</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1002T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1002T5E"/>
+      <property name="LCSC Part #" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfcd2829-ddfa-4023-bc53-58771bfdde2d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f864c690-5369-4d7d-85c5-0bc0071de7a3</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3136220-bec0-4f77-9145-a19454d034b2</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bf58149-c375-4354-b8d4-94d352d846b9</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3d43df9-fe9f-4fe7-a17c-96e36c7d9dc9</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0da355b-3785-43c3-838e-c73e3b19678c</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>2.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22940</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2401T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2401T5E"/>
+      <property name="LCSC Part #" value="C22940"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57f46821-1613-474c-9b2a-1246afe9218c</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ef806d7-5f63-45bb-b450-8dc9ddefea0c</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="LCSC Part #" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5be7e8-f73c-445f-bc84-5643681aba1d</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09d53448-ad8c-4f3b-bb0a-f8032214ec1c</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ee0991c-8b09-47d7-8e47-bce22d49d771</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22775</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1000T5E"/>
+      <property name="LCSC Part #" value="C22775"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63b84dc4-ce98-430f-8f79-dcd88e7c4f0a</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22775</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF1000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF1000T5E"/>
+      <property name="LCSC Part #" value="C22775"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8a36c3c-4e3b-4771-9b9c-915aa4beff51</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>177f49c4-30a0-4b3b-86f6-cf4d7323b7bc</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7dd210b-2d3f-4d14-837f-92d35ff039ff</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a7358c-4e19-4e01-851c-0d92fc7c939a</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C21189</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF0000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF0000T5E"/>
+      <property name="LCSC Part #" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27dedba1-72fd-4e94-bf6d-1685c4cde29f</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>300R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23025</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF3000T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF3000T5E"/>
+      <property name="LCSC Part #" value="C23025"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bc32289-ec2e-4f7e-9deb-977220069e1b</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>2K00</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22975</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2001T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2001T5E"/>
+      <property name="LCSC Part #" value="C22975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c2a6f6f-645d-4b36-8265-4d3e9ef7cf48</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>33R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C23140</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF330JT5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF330JT5E"/>
+      <property name="LCSC Part #" value="C23140"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c923ba33-2510-48ab-a180-b139f3206474</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>2K00</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part #">C22975</field>
+        <field name="Manufacturer">Uniroyal Elec</field>
+        <field name="Part Number">0603WAF2001T5E</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Manufacturer" value="Uniroyal Elec"/>
+      <property name="Part Number" value="0603WAF2001T5E"/>
+      <property name="LCSC Part #" value="C22975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28faaa6a-a82e-4782-890c-2b64f531fccc</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38079e14-0ce8-4dee-8d46-4455c55f568b</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d176a56-41b5-4a57-b739-dac59fce75f9</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>190cc55b-30f3-4efc-8c9e-7da93316ad03</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aa51d00-0838-49b8-991e-924c9829669b</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec5c34ce-913e-413c-aac1-eab676ca396b</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>DNP</value>
+      <footprint>TestPoint:TestPoint_Keystone_5000-5004_Miniature</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Manufacturer" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="Part Number" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>521259e9-4a73-4471-b575-ac871ecbd613</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LMR16020_2A_SWREG</value>
+      <footprint>Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias</footprint>
+      <fields>
+        <field name="LCSC Part #">C190006</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part Number">LMR16020PDDAR</field>
+      </fields>
+      <libsource lib="KicadCustomComponents" part="LMR16020_2A_SWREG" description=""/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Part Number" value="LMR16020PDDAR"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C190006"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a414257-d9d4-422d-836d-1574f18a31a3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ADAU1452</value>
+      <footprint>Package_CSP:LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C403699</field>
+        <field name="Manufacturer">Analog Devices</field>
+        <field name="Part Number">ADAU1452WBCPZ</field>
+      </fields>
+      <libsource lib="DSP_AnalogDevices" part="ADAU1452" description="SigmaDSP SigmaDSP Digital Audio Processor, 294.912 MHz, 40kword Data RAM, I2C/SPI, S/PDIF I/O, 16-Channel ASRC, LFCSP-72"/>
+      <property name="Manufacturer" value="Analog Devices"/>
+      <property name="Part Number" value="ADAU1452WBCPZ"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C403699"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21d959ef-c358-4786-b92a-f40380e13425</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LMR16020_2A_SWREG</value>
+      <footprint>Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias</footprint>
+      <fields>
+        <field name="LCSC Part #">C190006</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part Number">LMR16020PDDAR</field>
+      </fields>
+      <libsource lib="KicadCustomComponents" part="LMR16020_2A_SWREG" description=""/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Part Number" value="LMR16020PDDAR"/>
+      <property name="JLC" value=""/>
+      <property name="Mouser" value=""/>
+      <property name="LCSC Part #" value="C190006"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6db1de26-500f-4505-9ef9-9a3ba768bbd9</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>24AA256-I/SN</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="LCSC Part #">C152169</field>
+        <field name="Manufacturer">Microchip Tech</field>
+        <field name="Part Number">24AA256-I/SN</field>
+      </fields>
+      <libsource lib="Memory_EEPROM" part="24LC256" description="I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <property name="Manufacturer" value="Microchip Tech"/>
+      <property name="Part Number" value="24AA256-I/SN"/>
+      <property name="LCSC Part #" value="C152169"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbf08187-1271-45ba-b314-347e74d89bf6</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>12.288MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC Part #">C362472</field>
+        <field name="Manufacturer">Zhejiang Abel Elec</field>
+        <field name="Part Number">SMD-3225_4P 12.288MHZ 12PF 10PPM -40~+85℃</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Manufacturer" value="Zhejiang Abel Elec"/>
+      <property name="Part Number" value="SMD-3225_4P 12.288MHZ 12PF 10PPM -40~+85℃"/>
+      <property name="JLC" value=""/>
+      <property name="LCSC Part #" value="C362472"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="DIYAH_Main_r0p0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2df5575b-b02a-47a0-a803-08f615e50ae6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x20_Female">
+      <description>Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x20_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x19">
+      <description>Generic connector, single row, 01x19, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x19</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom Components" part="RPi_Pico">
+      <description>Raspberry Pi Pico Module</description>
+      <footprints>
+        <fp>Arduino*Nano*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">RPi_Pico</field>
+        <field name="Footprint">Custom Components:Rpi_Pico</field>
+        <field name="Mouser">485-5583</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GP0" type="bidirectional"/>
+        <pin num="2" name="GP1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GP2" type="bidirectional"/>
+        <pin num="5" name="GP3" type="bidirectional"/>
+        <pin num="6" name="GP4" type="bidirectional"/>
+        <pin num="7" name="GP5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GP6" type="bidirectional"/>
+        <pin num="10" name="GP7" type="bidirectional"/>
+        <pin num="11" name="GP8" type="bidirectional"/>
+        <pin num="12" name="GP9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GP10" type="bidirectional"/>
+        <pin num="15" name="GP11" type="bidirectional"/>
+        <pin num="16" name="GP12" type="bidirectional"/>
+        <pin num="17" name="GP13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GP14" type="bidirectional"/>
+        <pin num="20" name="GP15" type="bidirectional"/>
+        <pin num="21" name="GP16" type="bidirectional"/>
+        <pin num="22" name="GP17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GP18" type="bidirectional"/>
+        <pin num="25" name="GP19" type="bidirectional"/>
+        <pin num="26" name="GP20" type="bidirectional"/>
+        <pin num="27" name="GP21" type="power_in"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GP22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GP26" type="bidirectional"/>
+        <pin num="32" name="GP27" type="bidirectional"/>
+        <pin num="33" name="GND" type="power_in"/>
+        <pin num="34" name="GP28" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3_OUT" type="power_out"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="power_in"/>
+        <pin num="39" name="VSYS" type="bidirectional"/>
+        <pin num="40" name="VBUS" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="DSP_AnalogDevices" part="ADAU1452">
+      <description>SigmaDSP SigmaDSP Digital Audio Processor, 294.912 MHz, 40kword Data RAM, I2C/SPI, S/PDIF I/O, 16-Channel ASRC, LFCSP-72</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf</docs>
+      <footprints>
+        <fp>LFCSP*1EP*10x10mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADAU1452</field>
+        <field name="Footprint">Package_CSP:LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DGND" type="power_in"/>
+        <pin num="2" name="IOVDD" type="power_in"/>
+        <pin num="3" name="VDRIVE" type="output"/>
+        <pin num="4" name="SPDIFIN" type="input"/>
+        <pin num="5" name="SPDIFOUT" type="output"/>
+        <pin num="6" name="AGND" type="power_in"/>
+        <pin num="7" name="AVDD" type="power_in"/>
+        <pin num="8" name="AUXADC0" type="input"/>
+        <pin num="9" name="AUXADC1" type="input"/>
+        <pin num="10" name="AUXADC2" type="input"/>
+        <pin num="11" name="AUXADC3" type="input"/>
+        <pin num="12" name="AUXADC4" type="input"/>
+        <pin num="13" name="AUXADC5" type="input"/>
+        <pin num="14" name="PGND" type="power_in"/>
+        <pin num="15" name="PVDD" type="power_in"/>
+        <pin num="16" name="PLLFILT" type="passive"/>
+        <pin num="17" name="DGND" type="passive"/>
+        <pin num="18" name="IOVDD" type="passive"/>
+        <pin num="19" name="DGND" type="passive"/>
+        <pin num="20" name="DVDD" type="power_in"/>
+        <pin num="21" name="XTALIN/MCLK" type="input"/>
+        <pin num="22" name="XTALOUT" type="output"/>
+        <pin num="23" name="CLKOUT" type="output"/>
+        <pin num="24" name="~{RESET}" type="input"/>
+        <pin num="25" name="DGND" type="passive"/>
+        <pin num="26" name="SS_M/MP0" type="bidirectional"/>
+        <pin num="27" name="MOSI_M/MP1" type="bidirectional"/>
+        <pin num="28" name="SCL_M/SCLK_M/MP2" type="bidirectional"/>
+        <pin num="29" name="SDA_M/MISO_M/MP3" type="bidirectional"/>
+        <pin num="30" name="MISO/SDA" type="bidirectional"/>
+        <pin num="31" name="SCLK/SCL" type="input"/>
+        <pin num="32" name="MOSI/ADDR1" type="input"/>
+        <pin num="33" name="SS/ADDR0" type="input"/>
+        <pin num="34" name="SELFBOOT" type="input"/>
+        <pin num="35" name="DVDD" type="passive"/>
+        <pin num="36" name="DGND" type="passive"/>
+        <pin num="37" name="DGND" type="passive"/>
+        <pin num="38" name="IOVDD" type="passive"/>
+        <pin num="39" name="LRCLK_OUT0/MP4" type="bidirectional"/>
+        <pin num="40" name="BCLK_OUT0" type="bidirectional"/>
+        <pin num="41" name="SDATA_OUT0" type="output"/>
+        <pin num="42" name="LRCLK_OUT1/MP5" type="bidirectional"/>
+        <pin num="43" name="BCLK_OUT1" type="bidirectional"/>
+        <pin num="44" name="SDATA_OUT1" type="output"/>
+        <pin num="45" name="MP6" type="bidirectional"/>
+        <pin num="46" name="MP7" type="bidirectional"/>
+        <pin num="47" name="LRCLK_OUT2/MP8" type="bidirectional"/>
+        <pin num="48" name="BCLK_OUT2" type="bidirectional"/>
+        <pin num="49" name="SDATA_OUT2" type="output"/>
+        <pin num="50" name="LRCLK_OUT3/MP9" type="bidirectional"/>
+        <pin num="51" name="BCLK_OUT3" type="bidirectional"/>
+        <pin num="52" name="SDATA_OUT3" type="output"/>
+        <pin num="53" name="DVDD" type="passive"/>
+        <pin num="54" name="DGND" type="passive"/>
+        <pin num="55" name="DGND" type="passive"/>
+        <pin num="56" name="IOVDD" type="passive"/>
+        <pin num="57" name="BCLK_IN0" type="bidirectional"/>
+        <pin num="58" name="LRCLK_IN0/MP10" type="bidirectional"/>
+        <pin num="59" name="SDATA_IN0" type="input"/>
+        <pin num="60" name="BCLK_IN1" type="bidirectional"/>
+        <pin num="61" name="LRCLK_IN1/MP11" type="bidirectional"/>
+        <pin num="62" name="SDATA_IN1" type="input"/>
+        <pin num="63" name="THD_M" type="passive"/>
+        <pin num="64" name="THD_P" type="passive"/>
+        <pin num="65" name="BCLK_IN2" type="bidirectional"/>
+        <pin num="66" name="LRCLK_IN2/MP12" type="bidirectional"/>
+        <pin num="67" name="SDATA_IN2" type="input"/>
+        <pin num="68" name="BCLK_IN3" type="bidirectional"/>
+        <pin num="69" name="LRCLK_IN3/MP13" type="bidirectional"/>
+        <pin num="70" name="SDATA_IN3" type="input"/>
+        <pin num="71" name="DVDD" type="passive"/>
+        <pin num="72" name="DGND" type="passive"/>
+        <pin num="73" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PNP_BEC">
+      <description>PNP transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PNP_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KicadCustomComponents" part="LMR16020_2A_SWREG">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMR16020_2A_SWREG</field>
+        <field name="Footprint">Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Part Number">LMR16020PDDAR</field>
+        <field name="LCSC Part #">C190006</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT" type="input"/>
+        <pin num="2" name="VIN" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="RT/SYNC" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="PG" type="input"/>
+        <pin num="7" name="PGND" type="input"/>
+        <pin num="8" name="SW" type="input"/>
+        <pin num="9" name="AGND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="KicadCustomComponents" part="Schottky_SS54">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Schottky_SS54</field>
+        <field name="Footprint">Diodes_SMD:D_SMA</field>
+        <field name="Manufacturer">MDD)icrodiode Electronics)</field>
+        <field name="Part Number">SS54</field>
+        <field name="LCSC Part #">C22452</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_EEPROM" part="24LC256">
+      <description>I2C Serial EEPROM, 256Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>DFN*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">24LC256</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/devicedoc/21203m.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="INDUCTOR">
+      <description>Inductor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Custom Components">
+      <uri>/Users/eric/Library/CloudStorage/GoogleDrive-ericcline81@gmail.com/My Drive/KicadCustomComponents.kicad_sym</uri>
+    </library>
+    <library logical="DSP_AnalogDevices">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//DSP_AnalogDevices.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="KicadCustomComponents">
+      <uri>/Users/eric/Library/CloudStorage/GoogleDrive-ericcline81@gmail.com/My Drive/KicadCustomComponents.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Memory_EEPROM">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Memory_EEPROM.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="PVDD" pintype="power_in"/>
+      <node ref="U2" pin="18" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U2" pin="38" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="56" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="AVDD" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VIN" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="4" name="BCLK">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U2" pin="60" pinfunction="BCLK_IN1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="DSP SDA_S">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="MISO/SDA" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="DSP_SCL_M">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="SCL_M/SCLK_M/MP2" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="7" name="DSP_SCL_S">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="U2" pin="31" pinfunction="SCLK/SCL" pintype="input"/>
+    </net>
+    <net code="8" name="DSP_SDA_M">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U2" pin="29" pinfunction="SDA_M/MISO_M/MP3" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="A1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="33" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="38" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="PGND" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="AGND" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="DGND" pintype="power_in"/>
+      <node ref="U2" pin="14" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U2" pin="17" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="32" pinfunction="MOSI/ADDR1" pintype="input"/>
+      <node ref="U2" pin="33" pinfunction="SS/ADDR0" pintype="input"/>
+      <node ref="U2" pin="36" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="37" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="54" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="55" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U2" pin="72" pinfunction="DGND" pintype="passive"/>
+      <node ref="U2" pin="73" pinfunction="EP" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="PGND" pintype="input"/>
+      <node ref="U3" pin="9" pinfunction="AGND" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="10" name="LRCLK">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="61" pinfunction="LRCLK_IN1/MP11" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="MCLK">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(A1-Pad1)">
+      <node ref="A1" pin="1" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Net-(A1-Pad2)">
+      <node ref="A1" pin="2" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Net-(A1-Pad4)">
+      <node ref="A1" pin="4" pinfunction="GP2" pintype="bidirectional"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(A1-Pad5)">
+      <node ref="A1" pin="5" pinfunction="GP3" pintype="bidirectional"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(A1-Pad6)">
+      <node ref="A1" pin="6" pinfunction="GP4" pintype="bidirectional"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(A1-Pad7)">
+      <node ref="A1" pin="7" pinfunction="GP5" pintype="bidirectional"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(A1-Pad9)">
+      <node ref="A1" pin="9" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(A1-Pad10)">
+      <node ref="A1" pin="10" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(A1-Pad11)">
+      <node ref="A1" pin="11" pinfunction="GP8" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(A1-Pad12)">
+      <node ref="A1" pin="12" pinfunction="GP9" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(A1-Pad14)">
+      <node ref="A1" pin="14" pinfunction="GP10" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(A1-Pad15)">
+      <node ref="A1" pin="15" pinfunction="GP11" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(A1-Pad16)">
+      <node ref="A1" pin="16" pinfunction="GP12" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(A1-Pad17)">
+      <node ref="A1" pin="17" pinfunction="GP13" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(A1-Pad19)">
+      <node ref="A1" pin="19" pinfunction="GP14" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(A1-Pad20)">
+      <node ref="A1" pin="20" pinfunction="GP15" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(A1-Pad21)">
+      <node ref="A1" pin="21" pinfunction="GP16" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(A1-Pad22)">
+      <node ref="A1" pin="22" pinfunction="GP17" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(A1-Pad24)">
+      <node ref="A1" pin="24" pinfunction="GP18" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(A1-Pad25)">
+      <node ref="A1" pin="25" pinfunction="GP19" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(A1-Pad30)">
+      <node ref="A1" pin="30" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(A1-Pad31)">
+      <node ref="A1" pin="31" pinfunction="GP26" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(A1-Pad32)">
+      <node ref="A1" pin="32" pinfunction="GP27" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(A1-Pad34)">
+      <node ref="A1" pin="34" pinfunction="GP28" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(A1-Pad35)">
+      <node ref="A1" pin="35" pinfunction="ADC_VREF" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(A1-Pad36)">
+      <node ref="A1" pin="36" pinfunction="3V3_OUT" pintype="power_out"/>
+    </net>
+    <net code="38" name="Net-(A1-Pad37)">
+      <node ref="A1" pin="37" pinfunction="3V3_EN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(A1-Pad39)">
+      <node ref="A1" pin="39" pinfunction="VSYS" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="BOOT" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="XTALIN/MCLK" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="PLLFILT" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U2" pin="35" pinfunction="DVDD" pintype="passive"/>
+      <node ref="U2" pin="53" pinfunction="DVDD" pintype="passive"/>
+      <node ref="U2" pin="71" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="BOOT" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="34" pinfunction="SELFBOOT" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VDRIVE" pintype="output"/>
+    </net>
+    <net code="58" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RT/SYNC" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="XTALOUT" pintype="output"/>
+    </net>
+    <net code="61" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="SPDIFOUT" pintype="output"/>
+    </net>
+    <net code="62" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="CLKOUT" pintype="output"/>
+    </net>
+    <net code="63" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="42" pinfunction="LRCLK_OUT1/MP5" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="43" pinfunction="BCLK_OUT1" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U2" pin="41" pinfunction="SDATA_OUT0" pintype="output"/>
+    </net>
+    <net code="66" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="RT/SYNC" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="WP" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U2" pin="69" pinfunction="LRCLK_IN3/MP13" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="Net-(R46-Pad2)">
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="U2" pin="44" pinfunction="SDATA_OUT1" pintype="output"/>
+    </net>
+    <net code="71" name="PICO_BCLK_OUT">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="40" pinfunction="BCLK_OUT0" pintype="bidirectional"/>
+      <node ref="U2" pin="57" pinfunction="BCLK_IN0" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="PICO_GP2_SCK">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="PICO_GP3_MOSI">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="PICO_GP4_MISO">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="PICO_GP5_CS">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="76" name="PICO_GP20_SDA">
+      <node ref="A1" pin="26" pinfunction="GP20" pintype="bidirectional"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="77" name="PICO_GP21_SCL">
+      <node ref="A1" pin="27" pinfunction="GP21" pintype="power_in"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="PICO_LRCLK_OUT">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="LRCLK_OUT0/MP4" pintype="bidirectional"/>
+      <node ref="U2" pin="58" pinfunction="LRCLK_IN0/MP10" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="PICO_SDATA_IN">
+      <node ref="A1" pin="29" pinfunction="GP22" pintype="bidirectional"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="80" name="PICO_SDATA_OUT">
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="59" pinfunction="SDATA_IN0" pintype="input"/>
+    </net>
+    <net code="81" name="SCL">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="SCL_USBi">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="83" name="SDA">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="84" name="SDATA_IN">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="SDATA_OUT">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U2" pin="62" pinfunction="SDATA_IN1" pintype="input"/>
+    </net>
+    <net code="86" name="SDA_USBi">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="SPDIF">
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="VBUS">
+      <node ref="A1" pin="40" pinfunction="VBUS" pintype="bidirectional"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="91" name="unconnected-(J6-Pad5)">
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(J6-Pad6)">
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(J6-Pad7)">
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(J6-Pad8)">
+      <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(J6-Pad9)">
+      <node ref="J6" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="PG" pintype="input"/>
+    </net>
+    <net code="97" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="SPDIFIN" pintype="input"/>
+    </net>
+    <net code="98" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="AUXADC0" pintype="input"/>
+    </net>
+    <net code="99" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="AUXADC1" pintype="input"/>
+    </net>
+    <net code="100" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="AUXADC2" pintype="input"/>
+    </net>
+    <net code="101" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="AUXADC3" pintype="input"/>
+    </net>
+    <net code="102" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="AUXADC4" pintype="input"/>
+    </net>
+    <net code="103" name="unconnected-(U2-Pad13)">
+      <node ref="U2" pin="13" pinfunction="AUXADC5" pintype="input"/>
+    </net>
+    <net code="104" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="SS_M/MP0" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="MOSI_M/MP1" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U2-Pad45)">
+      <node ref="U2" pin="45" pinfunction="MP6" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(U2-Pad46)">
+      <node ref="U2" pin="46" pinfunction="MP7" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="unconnected-(U2-Pad47)">
+      <node ref="U2" pin="47" pinfunction="LRCLK_OUT2/MP8" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="unconnected-(U2-Pad48)">
+      <node ref="U2" pin="48" pinfunction="BCLK_OUT2" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="unconnected-(U2-Pad49)">
+      <node ref="U2" pin="49" pinfunction="SDATA_OUT2" pintype="output"/>
+    </net>
+    <net code="111" name="unconnected-(U2-Pad50)">
+      <node ref="U2" pin="50" pinfunction="LRCLK_OUT3/MP9" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="unconnected-(U2-Pad51)">
+      <node ref="U2" pin="51" pinfunction="BCLK_OUT3" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="unconnected-(U2-Pad52)">
+      <node ref="U2" pin="52" pinfunction="SDATA_OUT3" pintype="output"/>
+    </net>
+    <net code="114" name="unconnected-(U2-Pad63)">
+      <node ref="U2" pin="63" pinfunction="THD_M" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(U2-Pad64)">
+      <node ref="U2" pin="64" pinfunction="THD_P" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(U2-Pad65)">
+      <node ref="U2" pin="65" pinfunction="BCLK_IN2" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="unconnected-(U2-Pad66)">
+      <node ref="U2" pin="66" pinfunction="LRCLK_IN2/MP12" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="unconnected-(U2-Pad67)">
+      <node ref="U2" pin="67" pinfunction="SDATA_IN2" pintype="input"/>
+    </net>
+    <net code="119" name="unconnected-(U2-Pad68)">
+      <node ref="U2" pin="68" pinfunction="BCLK_IN3" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="unconnected-(U2-Pad70)">
+      <node ref="U2" pin="70" pinfunction="SDATA_IN3" pintype="input"/>
+    </net>
+    <net code="121" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="PG" pintype="input"/>
+    </net>
+  </nets>
+</export>
