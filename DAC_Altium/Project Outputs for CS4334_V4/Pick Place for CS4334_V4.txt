@@ -1,0 +1,28 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\CS4334_V4\Project Outputs for CS4334_V4\Pick Place for CS4334_V4.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/03/24
+Time:       09:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                    Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                       
+B1         CS4334-KSZ                 TopLayer SOIC127P600X175-8N    16.2560      37.2110      270      "CS4334-KSZ, Audio DAC Dual 24 bit-, 96ksps +/-5%FSR Serial, 8-Pin SOIC"                                                                                                                                                                          
+R4         CRCW0805267KFKEA           TopLayer RESC2013X50X30ML20T20 33.4010      19.0500      90       ""                                                                                                                                                
+R3         ERJ8ENF5600V               TopLayer RESC3216X70X50LL05T20 55.2450      19.9390      0        ""                                                                                                                                                
+R2         ERJ8ENF5600V               TopLayer RESC3216X70X50LL05T20 54.7370      31.2420      0        ""                                                                                                                                                
+R1         CRCW0805267KFKEA           TopLayer RESC2013X50X30ML20T20 33.2740      32.3850      270      ""                                                                                                                                                                                                                                                                                             
+C8         CC0805KRX7R9BB152          TopLayer FP-CC0805-0_85-MFG    67.6910      18.9230      270      "CAP CER 1500PF 50V X7R 0805"                                                                                                                     
+C7         CC0805KRX7R9BB152          TopLayer FP-CC0805-0_85-MFG    61.4680      18.9230      270      "CAP CER 1500PF 50V X7R 0805"                                                                                                                     
+C6         UUD1H3R3MCL1GS             TopLayer NIC-CAPA2-4X5.8_V     41.1480      20.0660      0        "Aluminum Electrolytic Capacitor, UD Series, Low Impedance, 3.3 uF, 50 V, + / - 20%, -55 to 105 degC, Chip Type, 4 x 5.8 mm D x L, Pb-Free, Reel" 
+C5         UUD1H3R3MCL1GS             TopLayer NIC-CAPA2-4X5.8_V     40.8940      31.3690      0        "Aluminum Electrolytic Capacitor, UD Series, Low Impedance, 3.3 uF, 50 V, + / - 20%, -55 to 105 degC, Chip Type, 4 x 5.8 mm D x L, Pb-Free, Reel" 
+C4         CC0805KRX7R9BB152          TopLayer FP-CC0805-0_85-MFG    67.5640      32.0950      90       "CAP CER 1500PF 50V X7R 0805"                                                                                                                     
+C3         CC0805KRX7R9BB152          TopLayer FP-CC0805-0_85-MFG    61.2140      32.1310      90       "CAP CER 1500PF 50V X7R 0805"                                                                                                                     
+C2         CC0805KKX7R7BB105          TopLayer FP-CC0805-0_85-MFG    17.7800      28.1940      180      "CAP CER 1UF 16V X7R 0805"                                                                                                                        
+C1         CMP-1037-04182-1           TopLayer CAPC1206(3216)100_L   17.2720      31.3690      0        "CAP 100nF 16V ±10% 1206 (3216 Metric) Thickness 1mm SMD"                                                                                         
+2          CRCW080510K0FKEC           TopLayer RESC2013X50X30ML20T20 48.1330      18.9230      270      ""                                                                                                                                                
+1          CRCW080510K0FKEC           TopLayer RESC2013X50X30ML20T20 48.0060      32.3850      90       ""                                                                                                                                                

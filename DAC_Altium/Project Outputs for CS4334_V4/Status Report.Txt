@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [CS4334_V4.PrjPcb]
+   Generated File[Pick Place for CS4334_V4.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:54:21 AM On 3/1/2024
