@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C9","470uF","CP_Elec_6.3x7.7",169.011600,-87.586800,-90.000000,bottom
+"C10","470uF","CP_Elec_6.3x7.7",169.011600,-99.382600,90.000000,bottom
+"J1","Conn_01x19_Pin","PinHeader_1x19_P2.54mm_Vertical",107.315000,-69.850000,180.000000,bottom
